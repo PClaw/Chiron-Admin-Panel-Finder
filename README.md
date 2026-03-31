@@ -1,5 +1,6 @@
 # Chiron-Admin-Panel-Finder
 Website admin panel finder using brute force 
+
 (#WARNING! THIS SCRIPT USES PYTHON 3.#)
 
 SETUP(TERMUX)
